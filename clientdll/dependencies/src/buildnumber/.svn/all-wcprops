@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alteriwnet/!svn/ver/69/iw4/clientdll/dependencies/src/buildnumber
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/alteriwnet/!svn/ver/69/iw4/clientdll/dependencies/src/buildnumber/LICENSE.TXT
+END
+build.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/69/iw4/clientdll/dependencies/src/buildnumber/build.cmd
+END
+buildnumber.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/alteriwnet/!svn/ver/69/iw4/clientdll/dependencies/src/buildnumber/buildnumber.c
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/alteriwnet/!svn/ver/69/iw4/clientdll/dependencies/src/buildnumber/README.TXT
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alteriwnet/!svn/ver/69/iw4/clientdll/dependencies/src/buildnumber/Makefile
+END

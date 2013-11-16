@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "steam_api", "steam_api\steam_api.vcproj", "{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Normal|Any CPU = Normal|Any CPU
+		Normal|Mixed Platforms = Normal|Mixed Platforms
+		Normal|Win32 = Normal|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Debug|Any CPU.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Debug|Mixed Platforms.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Debug|Mixed Platforms.Build.0 = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Debug|Win32.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Debug|Win32.Build.0 = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Normal|Any CPU.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Normal|Mixed Platforms.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Normal|Mixed Platforms.Build.0 = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Normal|Win32.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Normal|Win32.Build.0 = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Release|Any CPU.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Release|Mixed Platforms.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Release|Mixed Platforms.Build.0 = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Release|Win32.ActiveCfg = Normal|Win32
+		{EF6AF76D-40D1-45B5-B665-D3004F3EE9A8}.Release|Win32.Build.0 = Normal|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
