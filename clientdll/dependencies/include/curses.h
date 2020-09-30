@@ -1,5 +1,5 @@
 /* Public Domain Curses */
-
+/* carefully follow the context*/
 /* $Id: curses.h,v 1.295 2008/07/15 17:13:25 wmcbrine Exp $ */
 
 /*----------------------------------------------------------------------*
